@@ -49,12 +49,6 @@ jsPDF – PDF generation
 
 LocalStorage API – Template persistence
 
-📂 Project Structure
-Invoice-Generator/
-│
-├── index.html        # Main application file
-├── README.md         # Project documentation
-
 ⚙️ How It Works
 
 Enter business & client details
